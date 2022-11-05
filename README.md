@@ -2,7 +2,6 @@
 
 ### Demo - Deployed over Github Pages 
 https://ayushkul.github.io/react-expense-tracker
-https://Hashem-Emran/reactjs-income-and-expenses
 
 
 
